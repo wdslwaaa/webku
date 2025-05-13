@@ -4,15 +4,17 @@ import Slide from "@/komponen/slide";
 
 const Beranda = () => {
   return <>
-  <MenuAtas color="#FA812F" fontcolor="white" title="Halaman Beranda"/>
-  <Slide/>
+  <MenuAtas color="#FA812F" 
+  fontcolor="white" 
+  title="Halaman profil"/>
+ 
   <br />
 
   <center>
     <br />
-    Selamat DATANG
+    Nama :Salwa <br />
+    Alamat : Jl.Alkausar
   </center>
-  Ini adalah halaman beranda
   <MenuBawah />
   </>
 }

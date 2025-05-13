@@ -4,9 +4,8 @@ import Slide from "@/komponen/slide";
 
 const Beranda = () => {
   return <>
-  <MenuAtas color="#FA812F" fontcolor="white" title="Halaman Beranda"/>
-  <Slide/>
-  <br />
+  <MenuAtas color="#FA812F" fontcolor="white" title="Halaman Tentang"/>
+
 
   <center>
     <br />
